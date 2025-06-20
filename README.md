@@ -7,6 +7,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Arshiya2801/count.svg" />
+</p>
 
 ### 🚀 About Me
 
