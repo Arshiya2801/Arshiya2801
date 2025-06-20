@@ -22,16 +22,17 @@
 ### 🌐 Connect with Me  
 
 <p>
-  <a href="[Linkedin](https://www.linkedin.com/in/arshiya-singh-1667a4285)" target="_blank">
+  <a href="https://www.linkedin.com/in/arshiya-singh-1667a4285" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arshiya%20Singh-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="[Leetcode](https://leetcode.com/u/Arshiya28)" target="_blank">
+  <a href="https://leetcode.com/u/Arshiya28" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Arshiya28-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="[Github](https://github.com/Arshiya2801)" target="_blank">
+  <a href="https://github.com/Arshiya2801" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Arshiya2801-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 ---
 
@@ -74,4 +75,4 @@
   <br/><br/>
   💖 Thanks for visiting my profile! Let’s build something impactful 🚀
 </p>
-![image](https://github.com/user-attachments/assets/22241e48-3a3e-4e21-940d-6fb807f4c959)
+
