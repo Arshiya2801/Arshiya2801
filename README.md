@@ -3,37 +3,31 @@
 <h1 align="center">Hi 👋, I'm Arshiya Singh</h1>
 
 <p align="center">
-🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Full-Stack Developer & AI Enthusiast &nbsp;|&nbsp; 🎨 Design Lead  
-</p>
-
-<p align="center">
-  <a href="https://github.com/Arshiya2801"><img src="https://komarev.com/ghpvc/?username=Arshiya2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer & DSA Enthusiast
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **WealthWise** – an AI-powered personal finance platform  
-- 🌱 Learning: **Full-stack ML integration & open source collaboration** (GSSOC '24)  
-- 💬 Ask me about: `React`, `Tailwind`, `Python`, `Streamlit`, `DSA`, and `UI/UX`  
+- 🌱 Learning: **Full-stack Web Development**
+- 🌱 *Design-Lead* at Eunoia
+- 💬 Ask me about: `Frontend Web Development`  
 - 🏆 **Top 50/5000** – National Road Safety Hackathon finalist  
-- 🎖️ Specialist badge on Naukri Code360 (DSA - Arrays & Linked Lists)  
 - 🥈 Rank 3 in Naukri Campus Engineers’ Ring of Honour – ₹10,000 prize  
-- 🌐 **Portfolio**: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
-- 📫 Reach me at: **singh.arshiya128@gmail.com**
+- 📫 Reach me at: **singharshiya.work@gmail.com**
 
 ---
 
 ### 🌐 Connect with Me  
 <p>
-  <a href="https://www.linkedin.com/in/arshiya-singh" target="_blank">
+  <a href="[https://www.linkedin.com/in/arshiya-singh](https://www.linkedin.com/in/arshiya-singh-1667a4285/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arshiya%20Singh-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/u/Arshiya28/" target="_blank">
+  <a href="[https://leetcode.com/u/Arshiya28/](https://leetcode.com/u/Arshiya28/)" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Arshiya28-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://github.com/Arshiya2801" target="_blank">
+  <a href="[https://github.com/Arshiya2801](https://github.com/Arshiya2801)" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Arshiya2801-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -72,28 +66,11 @@
 
 ---
 
-### 🌈 Contribution Graph Animation
 
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg" alt="Arshiya's GitHub Activity Graph" />
-</p>
-
----
-
-### 🔥 Featured Projects
-
-#### 💰 WealthWise – AI-Powered Finance Platform
-> AI + OCR-based expense tracking | Predictive budget insights | Supabase + Next.js + Prisma  
-[🔗 GitHub](https://github.com/Arshiya2801)
-
-#### 📊 Customer Segmentation Dashboard
-> Streamlit app for KMeans clustering, PCA, silhouette scores, and demographic insights  
-[🔗 GitHub Repo](https://github.com/Arshiya2801/Customer-Segmentation)
-
----
 
 <p align="center">
   ✨ “Code that solves is cool. Code that understands is powerful.”  
   <br/><br/>
   💖 Thanks for visiting my profile! Let’s build something impactful 🚀
 </p>
+![image](https://github.com/user-attachments/assets/22241e48-3a3e-4e21-940d-6fb807f4c959)
