@@ -12,10 +12,10 @@
 
 - 🔭 Currently working on: **CareReserve** – a doctor appointment booking platform
 - 🔭 Worked on: **WealthWise** – an AI-powered personal finance platform  
-- 🌱 Learning: **Full-stack Web Development** 
+- 🌱 Learning: **Full-stack Web Development**
+- 🌱 *Design-Lead* at Eunoia
 - 💬 Ask me about: `Frontend Web Development`  
 - 🏆 **Top 50/5000** – National Road Safety Hackathon finalist  
-- 🎖️ Specialist badge on Naukri Code360 (DSA - Arrays & Linked Lists)  
 - 🥈 Rank 3 in Naukri Campus Engineers’ Ring of Honour – ₹10,000 prize  
 - 📫 Reach me at: **singharshiya.work@gmail.com**
 
