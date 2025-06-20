@@ -26,13 +26,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Arshiya28" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-dark-green?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-darkgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://github.com/Arshiya2801" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="[https://github.com/Arshiya2801](https://www.instagram.com/arshiyasingh_281/?next=%2F)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-darkpink?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
 </p>
