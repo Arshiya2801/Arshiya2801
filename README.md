@@ -23,15 +23,16 @@
 
 <p>
   <a href="https://www.linkedin.com/in/arshiya-singh-1667a4285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arshiya%20Singh-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Arshiya28" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Arshiya28-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://github.com/Arshiya2801" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Arshiya2801-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
