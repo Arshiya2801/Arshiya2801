@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="[https://github.com/Arshiya2801](https://www.instagram.com/arshiyasingh_281/?next=%2F)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-darkpink?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
 </p>
