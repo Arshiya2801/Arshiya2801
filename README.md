@@ -3,19 +3,25 @@
 <h1 align="center">Hi 👋, I'm Arshiya Singh</h1>
 
 <p align="center">
-🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer & DSA Enthusiast
+🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Full-Stack Developer & AI Enthusiast &nbsp;|&nbsp; 🎨 Design Lead  
+</p>
+
+<p align="center">
+  <a href="https://github.com/Arshiya2801"><img src="https://komarev.com/ghpvc/?username=Arshiya2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Learning: **Full-stack Web Development**
-- 🌱 *Design-Lead* at Eunoia
-- 💬 Ask me about: `Frontend Web Development`  
+- 🔭 Currently working on: **WealthWise** – an AI-powered personal finance platform  
+- 🌱 Learning: **Full-stack ML integration & open source collaboration** (GSSOC '24)  
+- 💬 Ask me about: `React`, `Tailwind`, `Python`, `Streamlit`, `DSA`, and `UI/UX`  
 - 🏆 **Top 50/5000** – National Road Safety Hackathon finalist  
+- 🎖️ Specialist badge on Naukri Code360 (DSA - Arrays & Linked Lists)  
 - 🥈 Rank 3 in Naukri Campus Engineers’ Ring of Honour – ₹10,000 prize  
-- 📫 Reach me at: **singharshiya.work@gmail.com**
+- 🌐 **Portfolio**: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
+- 📫 Reach me at: **singh.arshiya128@gmail.com**
 
 ---
 
@@ -66,7 +72,25 @@
 
 ---
 
+### 🌈 Contribution Graph Animation
 
+<p align="center">
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg" alt="Arshiya's GitHub Activity Graph" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+#### 💰 WealthWise – AI-Powered Finance Platform
+> AI + OCR-based expense tracking | Predictive budget insights | Supabase + Next.js + Prisma  
+[🔗 GitHub](https://github.com/Arshiya2801)
+
+#### 📊 Customer Segmentation Dashboard
+> Streamlit app for KMeans clustering, PCA, silhouette scores, and demographic insights  
+[🔗 GitHub Repo](https://github.com/Arshiya2801/Customer-Segmentation)
+
+---
 
 <p align="center">
   ✨ “Code that solves is cool. Code that understands is powerful.”  
