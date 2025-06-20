@@ -98,12 +98,14 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya2801&layout=compact&theme=transparent" alt="Top Languages"/>
   <br/>
-  <img src="https://profile-counter.glitch.me/Arshiya2801/count.svg" alt="Visitor Count" />
+  
 </div>
 
 ---
 
-
+<p align="center">
+  <img src="https://hits.dwyl.com/Arshiya2801/Arshiya2801.svg?style=flat-square" alt="Visitor Badge"/>
+</p>
 
 <p align="center">
   ✨ “Code that solves is cool. Code that understands is powerful.”  
