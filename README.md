@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Arshiya Singh</h1>
 
 <p align="center">
-🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer & DSA Enthusiast &nbsp;|&nbsp; 🎨 Design Lead  
+🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer & DSA Enthusiast
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **CareReserve** – a doctor appointment booking platform
-- 🔭 Worked on: **WealthWise** – an AI-powered personal finance platform  
 - 🌱 Learning: **Full-stack Web Development**
 - 🌱 *Design-Lead* at Eunoia
 - 💬 Ask me about: `Frontend Web Development`  
