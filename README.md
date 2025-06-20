@@ -1,70 +1,77 @@
-### Hi 👋, I'm Arshiya Singh
+<!-- README.md for Arshiya2801 -->
 
-🎓 B.Tech IT Student @ IIIT Una’27  
-💻 Full-Stack Developer | 🧠 AI Enthusiast | 🎨 Design Lead  
+<h1 align="center">Hi 👋, I'm Arshiya Singh</h1>
 
----
-
-🔭 I’m currently working on:  
-**WealthWise** – An AI-powered personal finance platform with smart budgeting, OCR-based receipt scanning, and predictive insights.
-
-🌱 I’m currently learning:  
-**ML integration in full-stack apps** and **contributing to open-source** through GSSOC’24
-
-💬 Ask me about:  
-**React, Tailwind, Streamlit, Python, ML, Design & DSA**
-
-🏆 Highlights:
-- 🥉 Top 50/5000 National Hackathon Finalist (Ministry of Road Transport & Highways)
-- 🧩 Specialist Badge on Naukri Code360 for DSA
-- 🥈 Rank 3 in Naukri Campus Engineer's Ring of Honour (₹10K Prize)
-
-📫 How to reach me:  
-**singh.arshiya128@gmail.com**
+<p align="center">
+🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer & DSA Enthusiast &nbsp;|&nbsp; 🎨 Design Lead  
+</p>
 
 ---
 
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arshiya%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/arshiya-singh)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Arshiya28-orange?logo=leetcode)](https://leetcode.com/u/Arshiya28/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Arshiya2801-black?logo=github)](https://github.com/Arshiya2801)
+### 🚀 About Me
+
+- 🔭 Currently working on: **CareReserve** – a doctor appointment booking platform
+- 🔭 Worked on: **WealthWise** – an AI-powered personal finance platform  
+- 🌱 Learning: **Full-stack Web Development** 
+- 💬 Ask me about: `Frontend Web Development`  
+- 🏆 **Top 50/5000** – National Road Safety Hackathon finalist  
+- 🎖️ Specialist badge on Naukri Code360 (DSA - Arrays & Linked Lists)  
+- 🥈 Rank 3 in Naukri Campus Engineers’ Ring of Honour – ₹10,000 prize  
+- 📫 Reach me at: **singharshiya.work@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black)  
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=prisma&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+### 🌐 Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/arshiya-singh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Arshiya%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/Arshiya28/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Arshiya28-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://github.com/Arshiya2801" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Arshiya2801-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-### 🔥 My GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arshiya2801&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arshiya2801&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya2801&layout=compact&theme=radical)
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+### 📊 GitHub Stats
 
-📊 **Customer Segmentation Dashboard**  
-> Built with Streamlit + ML (KMeans + PCA)  
-> Upload CSV/Excel → Get Interactive Demographic Insights  
-[🔗 GitHub Repo](https://github.com/Arshiya2801/Customer-Segmentation)
-
-💰 **WealthWise – AI-Powered Finance Platform**  
-> Tech: Next.js, Supabase, Tailwind, Prisma, Inngest, Clerk, ML  
-> OCR-based expense logging | Budget alerts | Smart Recommendations
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arshiya2801&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshiya2801&theme=transparent" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya2801&layout=compact&theme=transparent" alt="Top Languages" />
+</div>
 
 ---
 
-✨ “Code that solves is cool. Code that understands is powerful.”  
-Let's build something amazing together! 🚀
+
+
+<p align="center">
+  ✨ “Code that solves is cool. Code that understands is powerful.”  
+  <br/><br/>
+  💖 Thanks for visiting my profile! Let’s build something impactful 🚀
+</p>
