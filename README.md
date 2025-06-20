@@ -23,7 +23,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/arshiya-singh-1667a4285" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Arshiya%20Singh-blue?style=for-the-badge&logo=linkedin" />
+    
   </a>
   <a href="https://leetcode.com/u/Arshiya28" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Arshiya28-orange?style=for-the-badge&logo=leetcode" />
