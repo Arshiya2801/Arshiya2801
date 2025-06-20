@@ -104,7 +104,7 @@
 ---
 
 <p align="center">
-  <img src="https://hits.dwyl.com/Arshiya2801/Arshiya2801.svg?style=flat-square" alt="Visitor Badge"/>
+  <a href="https://github.com/Arshiya2801"><img src="https://komarev.com/ghpvc/?username=Arshiya2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
 </p>
 
 <p align="center">
