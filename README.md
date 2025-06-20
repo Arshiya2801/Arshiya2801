@@ -82,7 +82,7 @@
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-000FR0?style=for-the-badge&logo=figma&logoColor=white"/>
   </a>
 </p>
 
