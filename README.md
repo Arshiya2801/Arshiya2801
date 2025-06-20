@@ -7,9 +7,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Arshiya2801/count.svg" />
-</p>
 
 ### 🚀 About Me
 
@@ -99,7 +96,9 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshiya2801&theme=transparent" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya2801&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya2801&layout=compact&theme=transparent" alt="Top Languages"/>
+  <br/>
+  <img src="https://profile-counter.glitch.me/Arshiya2801/count.svg" alt="Visitor Count" />
 </div>
 
 ---
