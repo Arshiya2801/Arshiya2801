@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arshiya Singh</h1>
 
 <p align="center">
-🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer & DSA Enthusiast
+🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer  &nbsp;|&nbsp; DSA Enthusiast
 </p>
 
 ---
@@ -11,10 +11,7 @@
 ### 🚀 About Me
 
 - 🌱 Learning: **Full-stack Web Development**
-- 🌱 *Design-Lead* at Eunoia
 - 💬 Ask me about: `Frontend Web Development`  
-- 🏆 **Top 50/5000** – National Road Safety Hackathon finalist  
-- 🥈 Rank 3 in Naukri Campus Engineers’ Ring of Honour – ₹10,000 prize  
 - 📫 Reach me at: **singharshiya.work@gmail.com**
 
 ---
