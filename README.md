@@ -89,14 +89,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Arshiya2801&show_icons=true&theme=transparent" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arshiya2801&theme=transparent" alt="GitHub Streak" />
+
+  <img src="https://streak-stats.demolab.com/?user=Arshiya2801&theme=transparent" alt="GitHub Streak" />
   <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya2801&layout=compact&theme=transparent" alt="Top Languages"/>
   <br/>
-  
+
 </div>
+
 
 ---
 
