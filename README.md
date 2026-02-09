@@ -19,6 +19,17 @@
 ## ⭐ Featured Projects
 
 ### 🧠 MindClash — AI-Powered Real-Time Debate Platform
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"/>
+</p>
+
 - Real-time 1v1 and team debates using **Socket.io**
 - Sub-second latency with multi-user synchronization
 - AI moderation, scoring, and topic generation using **Gemini**
@@ -28,8 +39,18 @@
 ---
 
 ### 🎤 TalentIQ — Real-Time Interview Platform
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white"/>
+</p>
+
 - Full-stack interview platform with coding, chat, and video
-- **WebRTC-based video calls** with screen sharing
+- WebRTC-based video calls with screen sharing
 - In-browser code editor with secure execution
 - Real-time chat with <100ms latency  
 🔗 [View Project](https://github.com/Arshiya2801/TalentIQ)
@@ -37,10 +58,20 @@
 ---
 
 ### 🎬 Streamly — Scalable Video Backend API
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
+</p>
+
 - Backend system across **10+ modules**
 - JWT authentication and secure sessions
 - Optimized uploads using **Multer + Cloudinary**  
 🔗 [View Project](https://github.com/Arshiya2801/Streamly)
+
 
 ---
 
