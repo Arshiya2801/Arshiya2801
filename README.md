@@ -93,9 +93,6 @@ Cloudinary • Clerk • Gemini API
   <a href="[https://github.com/Arshiya2801](https://www.instagram.com/arshiyasingh_281/?next=%2F)" target="_blank"> 
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=github&logoColor=white" /> 
   </a> 
-  <a href="https://leetcode.com/u/Arshiya28" target="_blank"> 
-    <img src="https://img.shields.io/badge/LeetCode-darkgreen?style=for-the-badge&logo=leetcode&logoColor=white" /> 
-  </a> 
   <a href="https://github.com/Arshiya2801" target="_blank"> 
     <img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=white" /> 
   </a> 
@@ -111,8 +108,6 @@ Cloudinary • Clerk • Gemini API
   <img src="https://streak-stats.demolab.com/?user=Arshiya2801&theme=transparent" alt="GitHub Streak" />
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya2801&layout=compact&theme=transparent" alt="Top Languages"/>
-  <br/>
 
 </div>
 
