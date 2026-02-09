@@ -3,28 +3,105 @@
 <h1 align="center">Hi 👋, I'm Arshiya Singh</h1>
 
 <p align="center">
-🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Web Developer  &nbsp;|&nbsp; DSA Enthusiast
+🎓 B.Tech IT @ IIIT Una ’27 &nbsp;|&nbsp; 💻 Full-Stack Developer &nbsp;|&nbsp; DSA Enthusiast
 </p>
 
 ---
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on **CareReserve Application**
-- 🌱 Learning: **Full-stack Web Development**
-- 💬 Ask me about: `Frontend Web Development`  
-- 📫 Reach me at: **singharshiya.work@gmail.com**
+- 🎓 Information Technology student at **IIIT Una**
+- 💻 Passionate about **scalable backend systems and real-time applications**
+- 🧠 Solved **350+ DSA problems** across major coding platforms
+- 🏆 **Rank 3** — Naukri Campus Engineers’ Ring of Honour
+- 🚀 Built real-time platforms with **WebRTC, Socket.io, and AI integrations**
 
 ---
 
-### 🌐 Connect with Me  
+## ⭐ Featured Projects
+
+### 🧠 MindClash — AI-Powered Real-Time Debate Platform
+- Real-time 1v1 and team debates using **Socket.io**
+- Sub-second latency with multi-user synchronization
+- AI moderation, scoring, and topic generation using **Gemini**
+- 40+ REST APIs with **Redis caching** and scalable architecture  
+🔗 [View Project](https://github.com/Arshiya2801/MindClash)
+
+---
+
+### 🎤 TalentIQ — Real-Time Interview Platform
+- Full-stack interview platform with coding, chat, and video
+- **WebRTC-based video calls** with screen sharing
+- In-browser code editor with secure execution
+- Real-time chat with <100ms latency  
+🔗 [View Project](https://github.com/Arshiya2801/TalentIQ)
+
+---
+
+### 🎬 Streamly — Scalable Video Backend API
+- Backend system across **10+ modules**
+- JWT authentication and secure sessions
+- Optimized uploads using **Multer + Cloudinary**  
+🔗 [View Project](https://github.com/Arshiya2801/Streamly)
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+C • C++ • Python • JavaScript
+
+### Frontend
+React • Tailwind CSS • HTML • CSS • Framer Motion
+
+### Backend & Databases
+Node.js • Express.js • REST APIs • Socket.io  
+MongoDB • Mongoose • Redis • MySQL
+
+### Tools & Platforms
+Git • GitHub • Linux • Docker • Postman  
+Cloudinary • Clerk • Gemini API
+
+---
+
+## 🧠 DSA / Problem Solving
+
+- Solved **350+ algorithmic problems**
+- Platforms: **LeetCode, CodeChef, GeeksforGeeks, CodeNinjas**
+- Strong foundation in:
+  - Data Structures
+  - Algorithms
+  - OOP
+  - DBMS
+  - OS
+  - Computer Networks
+
+---
+
+## 🌍 Open Source
+
+- Actively exploring open-source contributions
+- Looking to contribute to:
+  - Backend systems
+  - Developer tools
+  - AI-powered applications
+
+---
+
+## 📚 Currently Learning
+
+- System Design fundamentals
+- Advanced backend architecture
+- Cloud computing (AWS)
+- Scalable distributed systems
+
+---
+
+## 🌐 Connect With Me  
 
 <p>
   <a href="https://www.linkedin.com/in/arshiya-singh-1667a4285" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="[https://github.com/Arshiya2801](https://www.instagram.com/arshiyasingh_281/?next=%2F)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Arshiya28" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-darkgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -32,62 +109,11 @@
   <a href="https://github.com/Arshiya2801" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  
-  
 </p>
-
-
 
 ---
 
-### 🛠️ Tech Stack
-
-<p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  </a>
-  <a href="https://en.cppreference.com/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-000FR0?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
-</p>
-
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -102,16 +128,10 @@
 
 </div>
 
-
 ---
 
 <p align="center">
-  <a href="https://github.com/Arshiya2801"><img src="https://komarev.com/ghpvc/?username=Arshiya2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></a>
-</p>
-
-<p align="center">
-  ✨ “Code that solves is cool. Code that understands is powerful.”  
+  ✨ “Code that solves is cool. Code that scales is powerful.”  
   <br/><br/>
-  💖 Thanks for visiting my profile! Let’s build something impactful 🚀
+  🚀 Always building, always learning.
 </p>
-
