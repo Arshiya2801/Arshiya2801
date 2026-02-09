@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Information Technology student at **IIIT Una**
+- 🎓 Information Technology student at **Indian Institute of Information Technology Una**
 - 💻 Passionate about **scalable backend systems and real-time applications**
 - 🚀 Built real-time platforms with **WebRTC, Socket.io, and AI integrations**
 
