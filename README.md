@@ -13,13 +13,13 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 </p>
 
 ## 👩‍💻 About Me
+  - 🎓 I’m pursuing B.Tech in Information Technology at IIIT Una.
+  - ⚡ I’m interested in Backend Engineering, Distributed Systems, and Real-Time Applications.
+  - 👯 I’m looking to collaborate on Open-source projects involving Backend Engineering, Real-Time Systems & Developer Tools.
+  - 🌱 I’m currently learning Docker, AWS EC2, GitHub Actions, Scalable System Design, and Production Deployment Strategies.
+  - 💬 Ask me about MERN Stack, Node.js, React, Redis, Socket.io, WebRTC, REST APIs, Authentication, and DSA.
+  - ⚡ Fun fact: I’ve solved 500+ DSA problems & enjoy building systems involving real-time communication and backend architecture.
 
-- 🎓 B.Tech Information Technology student at IIIT Una
-- ⚡ Passionate about Backend Engineering, Distributed Systems & Real-Time Applications
-- 🚀 Built production-grade applications using MERN, Redis, Socket.io, WebRTC, and Gemini AI
-- 🏆 Rank 3 – Naukri Campus Engineers' Ring of Honour (₹10,000 Prize)
-- 💡 Solved 500+ DSA problems across LeetCode, CodeChef, and GeeksforGeeks
-- 🌱 Currently learning Docker, AWS, CI/CD, and scalable cloud architectures
 
 ---
 
@@ -104,38 +104,56 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 ### Programming
-<p> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### Frontend
-<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
 
-### Backend & Databases
+### Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+</p>
+
+### Databases & Caching
+<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 </p>
 
 ### Real-Time & AI
 <p>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SSE-FF5733?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Judge0-FF6B00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Monaco_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### Tools & Platforms
@@ -143,9 +161,6 @@ Building scalable backend systems, real-time applications, and AI-powered develo
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
 </p>
@@ -173,32 +188,35 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
-<p> 
-  <a href="https://www.linkedin.com/in/arshiya-singh-1667a4285" target="_blank"> 
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a> 
-  <a href="[https://github.com/Arshiya2801](https://www.instagram.com/arshiyasingh_281/?next=%2F)" target="_blank"> 
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=github&logoColor=white" /> 
-  </a> 
-  <a href="https://github.com/Arshiya2801" target="_blank"> 
-    <img src="https://img.shields.io/badge/GitHub-orange?style=for-the-badge&logo=github&logoColor=white" /> 
-  </a> 
+<p align="center">
+  
+  <a href="mailto:singharshiya.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/arshiya-singh-1667a4285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Arshiya2801" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  
+  <a href="https://x.com/ash240272" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  
-  <img src="https://streak-stats.demolab.com/?user=Arshiya2801&theme=transparent" alt="GitHub Streak" />
-  <br/>
-
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Arshiya2801&theme=date_night&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Arshiya2801&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arshiya2801&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -207,3 +225,6 @@ Building scalable backend systems, real-time applications, and AI-powered develo
   <br/><br/>
   🚀 Always building, always learning.
 </p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
