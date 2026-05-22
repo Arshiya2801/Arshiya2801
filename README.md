@@ -178,15 +178,6 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 
 ---
 
-## 🌍 Open Source
-
-- Actively exploring open-source contributions
-- Looking to contribute to:
-  - Backend systems
-  - Developer tools
-  - AI-powered applications
-
----
 
 ## 🌐 Connect With Me
 
@@ -219,12 +210,5 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arshiya2801&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<p align="center">
-  ✨ “Code that solves is cool. Code that scales is powerful.”  
-  <br/><br/>
-  🚀 Always building, always learning.
-</p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
