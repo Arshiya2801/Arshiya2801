@@ -76,8 +76,8 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 - AI Interview Simulator with adaptive difficulty and hiring evaluations
 - Judge0 integration for secure multi-language code execution
 
-- 🔗 Live Demo(https://github.com/Arshiya2801/TalentIQ)
-- 🔗 GitHub(https://github.com/Arshiya2801/Mindclash)
+- 🔗 Live Demo(https://apollo-phi-two.vercel.app)
+- 🔗 GitHub(https://github.com/Arshiya2801/Apollo)
 
 
 ---
