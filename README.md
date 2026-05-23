@@ -5,7 +5,8 @@
 <p align="center">
 🎓 B.Tech IT @ IIIT Una '27 &nbsp;|&nbsp;
 ⚡ Full-Stack Engineer &nbsp;|&nbsp;
-🚀 Real-Time Systems & AI Applications
+🚀 Real-Time Systems & AI Applications &nbsp;|&nbsp;
+💻 <a href="https://portfolio-steel-xi-dqd9vykpv0.vercel.app/">Portfolio</a>
 </p>
 
 <p align="center">
@@ -46,8 +47,8 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 - Developed 40+ REST APIs with Redis caching and MongoDB
 - Added anonymous debates, spectator mode, and XP-based betting
 
-- 🔗 Live Demo(https://github.com/Arshiya2801/TalentIQ)
-- 🔗 GitHub(https://github.com/Arshiya2801/Mindclash)
+- 🔗 <a href="https://github.com/Arshiya2801/TalentIQ">Live Demo</a>
+- 🔗 <a href="https://github.com/Arshiya2801/Mindclash">Github</a>
 
 
 ---
@@ -76,31 +77,10 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 - AI Interview Simulator with adaptive difficulty and hiring evaluations
 - Judge0 integration for secure multi-language code execution
 
-- 🔗 Live Demo(https://apollo-phi-two.vercel.app)
-- 🔗 GitHub(https://github.com/Arshiya2801/Apollo)
+- 🔗 <a href="https://apollo-phi-two.vercel.app">Live Demo</a>
+- 🔗 <a href="https://github.com/Arshiya2801/Apollo">Github</a>
 
 
----
-
-
-### 🎤 TalentIQ — Real-Time Interview Platform
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white"/>
-</p>
-
-- Full-stack interview platform with coding, chat, and video
-- WebRTC-based video calls with screen sharing
-- In-browser code editor with secure execution
-- Real-time chat with <100ms latency
-
-- 🔗 Live Demo(https://github.com/Arshiya2801/TalentIQ)
-- 🔗 GitHub(https://github.com/Arshiya2801/Mindclash)
 
 ---
 
@@ -183,6 +163,9 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 
 <p align="center">
   
+  <a href="https://portfolio-steel-xi-dqd9vykpv0.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-EA0936?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:singharshiya.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
