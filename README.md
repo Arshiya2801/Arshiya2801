@@ -26,33 +26,6 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 
 ## ⭐ Featured Projects
 
-### 🧠 MindClash — AI-Powered Real-Time Debate Platform
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"/>
-</p>
-
-- Built a large-scale debate platform using MERN, Socket.io, and Redis
-- Enabled 1v1 and team debates with sub-second latency
-- Integrated Gemini AI for moderation, scoring, and analytics
-- Developed 40+ REST APIs with Redis caching and MongoDB
-- Added anonymous debates, spectator mode, and XP-based betting
-
-- 🔗 <a href="https://github.com/Arshiya2801/TalentIQ">Live Demo</a>
-- 🔗 <a href="https://github.com/Arshiya2801/Mindclash">Github</a>
-
-
----
-
 
 ### 🤖 Apollo — AI Coding Coach & Workspace
 
@@ -83,6 +56,35 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 
 
 ---
+
+### 🧠 MindClash — AI-Powered Real-Time Debate Platform
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white"/>
+</p>
+
+- Built a large-scale debate platform using MERN, Socket.io, and Redis
+- Enabled 1v1 and team debates with sub-second latency
+- Integrated Gemini AI for moderation, scoring, and analytics
+- Developed 40+ REST APIs with Redis caching and MongoDB
+- Added anonymous debates, spectator mode, and XP-based betting
+
+- 🔗 <a href="https://github.com/Arshiya2801/TalentIQ">Live Demo</a>
+- 🔗 <a href="https://github.com/Arshiya2801/Mindclash">Github</a>
+
+
+---
+
+
 
 ## 🛠️ Tech Stack
 
