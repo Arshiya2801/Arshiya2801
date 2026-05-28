@@ -78,7 +78,7 @@ Building scalable backend systems, real-time applications, and AI-powered develo
 - Developed 40+ REST APIs with Redis caching and MongoDB
 - Added anonymous debates, spectator mode, and XP-based betting
 
-- 🔗 <a href="https://github.com/Arshiya2801/TalentIQ">Live Demo</a>
+- 🔗 <a href="https://mind-clash-nine.vercel.app/">Live Demo</a>
 - 🔗 <a href="https://github.com/Arshiya2801/Mindclash">Github</a>
 
 
