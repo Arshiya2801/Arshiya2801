@@ -6,7 +6,7 @@
 🎓 B.Tech IT @ IIIT Una '27 &nbsp;|&nbsp;
 ⚡ Full-Stack Engineer &nbsp;|&nbsp;
 🚀 Real-Time Systems & AI Applications &nbsp;|&nbsp;
-💻 <a href="https://portfolio-steel-xi-dqd9vykpv0.vercel.app/">Portfolio</a>
+<!-- 💻 <a href="https://portfolio-steel-xi-dqd9vykpv0.vercel.app/">Portfolio</a> -->
 </p>
 
 <p align="center">
